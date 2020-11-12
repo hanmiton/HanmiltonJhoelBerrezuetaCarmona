@@ -14,5 +14,7 @@ Install [Nodejs](https://nodejs.org/es/) recomended the LTS version
 
 - Diagrama de clases y diagrama de secuencia de las partes encargadas de la
   aplicación.
+  
+![Muckup](ClassDiagram/ClassDiagram.jpeg)
 
 ## Not Finish Points
