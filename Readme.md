@@ -12,9 +12,18 @@ Install [Nodejs](https://nodejs.org/es/) recomended the LTS version
 
 ## Finish Points
 
-- Diagrama de clases y diagrama de secuencia de las partes encargadas de la
-  aplicación.
+- Diagrama de clases y diagrama.
   
 ![Muckup](ClassDiagram/ClassDiagram.jpeg)
+
+- Diagrama de secuencia de las partes encargadas de la
+  aplicación.
+  
+![Muckup](ClassDiagram/CheckIn.jpeg)
+![Muckup](ClassDiagram/CheckOut.jpeg)
+![Muckup](ClassDiagram/RegisterOficial.jpeg)
+![Muckup](ClassDiagram/RegisterResident.jpeg)
+![Muckup](ClassDiagram/ResidentPayments.jpeg)
+![Muckup](ClassDiagram/StartMonth.jpeg)
 
 ## Not Finish Points
