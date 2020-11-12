@@ -19,11 +19,11 @@ Install [Nodejs](https://nodejs.org/es/) recomended the LTS version
 - Diagrama de secuencia de las partes encargadas de la
   aplicación.
   
-![Muckup](ClassDiagram/CheckIn.jpeg)
-![Muckup](ClassDiagram/CheckOut.jpeg)
-![Muckup](ClassDiagram/RegisterOficial.jpeg)
-![Muckup](ClassDiagram/RegisterResident.jpeg)
-![Muckup](ClassDiagram/ResidentPayments.jpeg)
-![Muckup](ClassDiagram/StartMonth.jpeg)
+![Muckup](SequenceDiagrams/CheckIn.jpeg)
+![Muckup](SequenceDiagrams/CheckOut.jpeg)
+![Muckup](SequenceDiagrams/RegisterOficial.jpeg)
+![Muckup](SequenceDiagrams/RegisterResident.jpeg)
+![Muckup](SequenceDiagrams/ResidentPayments.jpeg)
+![Muckup](SequenceDiagrams/StartMonth.jpeg)
 
 ## Not Finish Points
